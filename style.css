@@ -307,6 +307,10 @@ section{
     
 }
 
+.section_pic-container img{
+    border-radius: 12rem;
+}
+
 .section_pic-container {
     height: 400px;
     width: 400px;
