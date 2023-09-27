@@ -301,6 +301,11 @@ section{
     text-align: center;
 }
 
+.details-container h2{
+    color: #e5dcdc;
+    font-size: 2rem;
+}
+
 .section-container {
     gap: 4rem;
     height: 80%;
