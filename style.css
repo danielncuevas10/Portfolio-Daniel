@@ -301,6 +301,12 @@ section{
     text-align: center;
 }
 
+.details-container li {
+    list-style: none;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
 .details-container h2{
     color: #e5dcdc;
     font-size: 2rem;
@@ -309,7 +315,6 @@ section{
 .section-container {
     gap: 4rem;
     height: 80%;
-    
 }
 
 .section_pic-container img{
@@ -320,7 +325,6 @@ section{
     height: 400px;
     width: 400px;
     margin: auto 0;
-    
 }
 
 /* Experience Section */
