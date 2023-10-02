@@ -355,6 +355,10 @@ section{
     justify-content: space-around;
 }
 
+.text-container p{
+    text-align: justify;
+}
+
 article{
     display: flex;
     width: 10rem;
